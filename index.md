@@ -34,7 +34,8 @@ You can also checkout my [README](README.md)
 
 ### Things to do on skis:
 1. take them off
-2. ride a snowboard
+2. buy a snowboard
+3. ride it instead
 
 
 ### Task Lists
